@@ -1,10 +1,20 @@
-# IamViewHidden
-IamViewHidden - Is the free software to quickly scan and UN-HIDE all the hidden files on your windows system. It automatically detects the all hidden files and folders and quickly uncovers all. and you can reverse it too...
+## What is IamViewHidden?
+IamViewHidden Is the free software to quickly scan and UN-HIDE all the hidden files on your windows system. It automatically detects the all hidden files and folders and quickly uncovers all. and you can reverse it too...
 
-http://opensourcelk.github.io/IamViewHidden
+## Author
+Github Profile >> https://github.com/IamProgrammerlk
+Blogger Profile >> http://iamprogrammerlk.blogspot.com
+Facebook Profile >> https://www.facebook.com/IamProgrammerOfficial
+Twitter Profile >> https://twitter.com/IamProgrammerlk
 
- Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting <a> element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
+## Support or Contact
+Having trouble with [IamViewHidden](http://opensourcelk.blogspot.com/p/iamviewhidden.html)? Check out our [documentation](http://opensourcelk.blogspot.com/p/iamviewhidden-documentation.html) or [contact support](http://opensourcelk.blogspot.com/p/contact-support.html) and I’ll help you sort it out.
 
- Support or Contact
-Having trouble with Pages? Check out our documentation or contact support and we’ll help you sort it out.
+## License
+Code released under the [MIT licence](http://opensource.org/licenses/MIT).
+
+## Usefull links
+http://opensourcelk.blogspot.com/p/iamviewhidden.html
+http://opensourcelk.blogspot.com/p/iamviewhidden-download.html
+http://opensourcelk.blogspot.com/p/iamviewhidden-documentation.html
+http://opensourcelk.blogspot.com/p/contact-support.html
